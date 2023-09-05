@@ -1,6 +1,5 @@
 # Let's start PS
 ---
-<br/>
 
 ## Programmers :desktop_computer:
 [프로그래머스](https://school.programmers.co.kr/)
